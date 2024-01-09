@@ -13,6 +13,8 @@ This repository contains a collection of Java code examples demonstrating variou
 3. **DataEncryptionDecryption.java**: Shows how to encrypt and decrypt data, emphasizing data protection.
 4. **HttpsServerSetup.java**: Sets up a simple HTTPS server in Java, highlighting the importance of secure communication.
 5. **XSSProtection.java**: Provides an example of sanitizing user input to prevent Cross-Site Scripting (XSS) attacks.
+6. **BasicPKI.java**: Demonstrates a basic Public Key Infrastructure (PKI) with key generation and message encryption/decryption.
+7. **SecureFileTransfer.java**: Implements a Secure File Transfer Protocol (SFTP) client for encrypted file transfers.
 
 ## Getting Started
 
