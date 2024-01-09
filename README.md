@@ -1,7 +1,3 @@
-# java-secure-development
-Java code snippets for secure coding guidance
-
-
 # Java Cybersecurity Code Examples
 
 This repository contains a collection of Java code examples demonstrating various cybersecurity principles and practices. Each example is designed to showcase specific security techniques in Java programming, suitable for a portfolio in a cybersecurity-oriented role.
